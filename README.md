@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GOCODE01
 - 👀 I’m passionate building in GitHub
-- 🌱 I’m currently developing something for people and the environment around
+- 🌱 I’m currently developing something for people
 - 💞️ I’m looking to collaborate on ML NLP and WEB3
 
 <!---
