@@ -2,7 +2,7 @@
 - 👀 I’m passionate building in GitHub
 - 🌱 I’m currently developing something for people and the environment around
 - 💞️ I’m looking to collaborate on ML NLP and WEB3
-- 📫 How to reach me via email
+
 <!---
 GOCODE01/GOCODE01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
